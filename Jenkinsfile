@@ -24,7 +24,7 @@ pipeline {
         
         stage('Package') {
             steps {
-                sh 'zip -r mcp_server_build.zip dist'
+                sh 'zip -r mcp_server.zip dist'
                 archiveArtifacts artifacts: 'mcp_server_build.zip', followSymlinks: false
             }
         }
