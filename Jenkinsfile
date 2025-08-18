@@ -6,15 +6,7 @@ pipeline {
         }
     }
 
-    stages {
-        stage('Checkout') {
-            steps {
-                script {
-                    sh 'git rev-parse HEAD'
-                }
-            }
-        }
-        
+    stages {        
         stage('Setup') {
             steps {
                 sh 'apt-get update'
