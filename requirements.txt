@@ -1,1 +1,4 @@
 pyinstaller
+python-dotenv 
+requests
+mcp

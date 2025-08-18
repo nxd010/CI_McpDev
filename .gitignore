@@ -1,1 +1,3 @@
 *.tar
+*.env
+*__pycache__/
