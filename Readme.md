@@ -1,4 +1,4 @@
-<img width="1312" height="857" alt="image" src="https://github.com/user-attachments/assets/216c71b8-88c0-40d6-9c8b-6a6090b3cc70" /># MCP Server to Monitor CI (Continuous Integration) builds
+# MCP Server to Monitor CI (Continuous Integration) builds
 
 This project aims to demonstrate (as a POC) how we can use MCP Servers to feed real time CI Build context to the IDE and use AI Agents for on the fly status monitoring and context based quick code fixes.
 The aim of such tool is to enhance the developer experience and cut the time involved in juggling between different tabs
