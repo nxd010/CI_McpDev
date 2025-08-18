@@ -1,7 +1,7 @@
 pipeline {
     agent {
         docker {
-            image 'jenkins/jenkins:lts'
+            image 'python:3.11-slim'
             args '-u root'
         }
     }
