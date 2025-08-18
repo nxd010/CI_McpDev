@@ -1,0 +1,5 @@
+.git/
+*.tar
+jenkins_home/
+__pycache__/
+*.pyc
