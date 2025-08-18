@@ -5,7 +5,6 @@ pipeline {
             args '-u root'
         }
     }
-
     stages {        
         stage('Setup') {
             steps {
