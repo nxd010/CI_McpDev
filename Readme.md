@@ -55,3 +55,5 @@ At the end of project, the build must run and succeed
 5. Ngrok - https://ngrok.com/
 6. CI - https://aws.amazon.com/what-is/ci-cd/
 7. Cloud Native Mindset - https://dev.to/aws-builders/embracing-cloud-native-mindset-1fi8
+
+Testing out Build
